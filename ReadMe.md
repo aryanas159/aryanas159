@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am a Student at MNIT Jaipur, India. Currently pursuing B. Tech in Computer Science and Engineering. I live to code and workout. Also I like to watch anime.
+ I am a Student at MNIT Jaipur, India. Currently pursuing B. Tech in Computer Science and Engineering.
 
 
 ## 🌐 Socials:
